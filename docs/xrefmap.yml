@@ -1,0 +1,90 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: RWD.Toolbox.PasswordGenerator
+  name: RWD.Toolbox.PasswordGenerator
+  href: api/RWD.Toolbox.PasswordGenerator.html
+  commentId: N:RWD.Toolbox.PasswordGenerator
+  fullName: RWD.Toolbox.PasswordGenerator
+  nameWithType: RWD.Toolbox.PasswordGenerator
+- uid: RWD.Toolbox.PasswordGenerator.IPasswordGenerator
+  name: IPasswordGenerator
+  href: api/RWD.Toolbox.PasswordGenerator.IPasswordGenerator.html
+  commentId: T:RWD.Toolbox.PasswordGenerator.IPasswordGenerator
+  fullName: RWD.Toolbox.PasswordGenerator.IPasswordGenerator
+  nameWithType: IPasswordGenerator
+- uid: RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32)
+  name: Generate(Int32)
+  href: api/RWD.Toolbox.PasswordGenerator.IPasswordGenerator.html#RWD_Toolbox_PasswordGenerator_IPasswordGenerator_Generate_System_Int32_
+  commentId: M:RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32)
+  fullName: RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32)
+  nameWithType: IPasswordGenerator.Generate(Int32)
+- uid: RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32,System.Boolean,System.Boolean)
+  name: Generate(Int32, Boolean, Boolean)
+  href: api/RWD.Toolbox.PasswordGenerator.IPasswordGenerator.html#RWD_Toolbox_PasswordGenerator_IPasswordGenerator_Generate_System_Int32_System_Boolean_System_Boolean_
+  commentId: M:RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32,System.Boolean,System.Boolean)
+  fullName: RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32, System.Boolean, System.Boolean)
+  nameWithType: IPasswordGenerator.Generate(Int32, Boolean, Boolean)
+- uid: RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate*
+  name: Generate
+  href: api/RWD.Toolbox.PasswordGenerator.IPasswordGenerator.html#RWD_Toolbox_PasswordGenerator_IPasswordGenerator_Generate_
+  commentId: Overload:RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate
+  isSpec: "True"
+  fullName: RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate
+  nameWithType: IPasswordGenerator.Generate
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator
+  name: PasswordGenerator
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html
+  commentId: T:RWD.Toolbox.PasswordGenerator.PasswordGenerator
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator
+  nameWithType: PasswordGenerator
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor
+  name: PasswordGenerator()
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html#RWD_Toolbox_PasswordGenerator_PasswordGenerator__ctor
+  commentId: M:RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator.PasswordGenerator()
+  nameWithType: PasswordGenerator.PasswordGenerator()
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor(System.Char[])
+  name: PasswordGenerator(Char[])
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html#RWD_Toolbox_PasswordGenerator_PasswordGenerator__ctor_System_Char___
+  commentId: M:RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor(System.Char[])
+  name.vb: PasswordGenerator(Char())
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator.PasswordGenerator(System.Char[])
+  fullName.vb: RWD.Toolbox.PasswordGenerator.PasswordGenerator.PasswordGenerator(System.Char())
+  nameWithType: PasswordGenerator.PasswordGenerator(Char[])
+  nameWithType.vb: PasswordGenerator.PasswordGenerator(Char())
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor(System.Char[],System.Char[],System.Char[],System.Char[])
+  name: PasswordGenerator(Char[], Char[], Char[], Char[])
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html#RWD_Toolbox_PasswordGenerator_PasswordGenerator__ctor_System_Char___System_Char___System_Char___System_Char___
+  commentId: M:RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor(System.Char[],System.Char[],System.Char[],System.Char[])
+  name.vb: PasswordGenerator(Char(), Char(), Char(), Char())
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator.PasswordGenerator(System.Char[], System.Char[], System.Char[], System.Char[])
+  fullName.vb: RWD.Toolbox.PasswordGenerator.PasswordGenerator.PasswordGenerator(System.Char(), System.Char(), System.Char(), System.Char())
+  nameWithType: PasswordGenerator.PasswordGenerator(Char[], Char[], Char[], Char[])
+  nameWithType.vb: PasswordGenerator.PasswordGenerator(Char(), Char(), Char(), Char())
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor*
+  name: PasswordGenerator
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html#RWD_Toolbox_PasswordGenerator_PasswordGenerator__ctor_
+  commentId: Overload:RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor
+  isSpec: "True"
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator.PasswordGenerator
+  nameWithType: PasswordGenerator.PasswordGenerator
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32)
+  name: Generate(Int32)
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html#RWD_Toolbox_PasswordGenerator_PasswordGenerator_Generate_System_Int32_
+  commentId: M:RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32)
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32)
+  nameWithType: PasswordGenerator.Generate(Int32)
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32,System.Boolean,System.Boolean)
+  name: Generate(Int32, Boolean, Boolean)
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html#RWD_Toolbox_PasswordGenerator_PasswordGenerator_Generate_System_Int32_System_Boolean_System_Boolean_
+  commentId: M:RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32,System.Boolean,System.Boolean)
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32, System.Boolean, System.Boolean)
+  nameWithType: PasswordGenerator.Generate(Int32, Boolean, Boolean)
+- uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate*
+  name: Generate
+  href: api/RWD.Toolbox.PasswordGenerator.PasswordGenerator.html#RWD_Toolbox_PasswordGenerator_PasswordGenerator_Generate_
+  commentId: Overload:RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate
+  isSpec: "True"
+  fullName: RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate
+  nameWithType: PasswordGenerator.Generate

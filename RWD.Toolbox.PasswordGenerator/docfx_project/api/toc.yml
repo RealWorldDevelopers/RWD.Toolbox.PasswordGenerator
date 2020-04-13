@@ -1,0 +1,8 @@
+### YamlMime:TableOfContent
+- uid: RWD.Toolbox.PasswordGenerator
+  name: RWD.Toolbox.PasswordGenerator
+  items:
+  - uid: RWD.Toolbox.PasswordGenerator.IPasswordGenerator
+    name: IPasswordGenerator
+  - uid: RWD.Toolbox.PasswordGenerator.PasswordGenerator
+    name: PasswordGenerator

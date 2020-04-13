@@ -1,0 +1,12 @@
+{
+  "RWD.Toolbox.PasswordGenerator": "RWD.Toolbox.PasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.IPasswordGenerator": "RWD.Toolbox.PasswordGenerator.IPasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32)": "RWD.Toolbox.PasswordGenerator.IPasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.IPasswordGenerator.Generate(System.Int32,System.Boolean,System.Boolean)": "RWD.Toolbox.PasswordGenerator.IPasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.PasswordGenerator": "RWD.Toolbox.PasswordGenerator.PasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor": "RWD.Toolbox.PasswordGenerator.PasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor(System.Char[])": "RWD.Toolbox.PasswordGenerator.PasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.PasswordGenerator.#ctor(System.Char[],System.Char[],System.Char[],System.Char[])": "RWD.Toolbox.PasswordGenerator.PasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32)": "RWD.Toolbox.PasswordGenerator.PasswordGenerator.yml",
+  "RWD.Toolbox.PasswordGenerator.PasswordGenerator.Generate(System.Int32,System.Boolean,System.Boolean)": "RWD.Toolbox.PasswordGenerator.PasswordGenerator.yml"
+}
